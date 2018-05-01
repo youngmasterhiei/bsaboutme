@@ -1,0 +1,151 @@
+body {
+    background-image: url(Images/scribble_light_@2X.png);
+}
+
+.leftFloat {
+    float: left;
+}
+
+.profileImg {
+    
+    width: 200px;
+    height: auto;
+    margin-right: 2%;
+    margin-top: 3%;
+    padding-top: 1%;
+    margin-left: 1%;
+
+    
+   
+    
+}
+
+
+.navDivpadding {
+    padding-right: 10%;
+}
+.paraText {
+    
+    padding-top: 2%;
+    line-height: 30px;
+    
+}
+
+.paraText2 {
+    line-height: 30px;
+    margin-left: 1%;
+}
+
+.nameHeader {
+    background-color: #4aaaa5;
+    margin-left: 19.3333%;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #ffffff;
+    padding-top: 12px;
+    margin-top: -11px;
+    
+    margin-bottom:-8px;
+    padding-bottom: 11px;
+    padding-right: 10px;
+    padding-left: 10px;
+    
+    
+
+   
+    
+}
+
+.mainContent {
+    margin-left:  auto;
+    background-color: white;
+    margin-top: 1.333%;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #dddddd;
+    padding-bottom: 7px;
+    
+    
+}
+
+p {
+    color: #777777;
+    
+
+}
+
+.navStyle {
+    border-color: #cccccc;
+    border-width: 2px;
+    border-bottom-style: solid;
+}
+
+.secondHeader {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    margin-top: 15px;
+    line-height: 50px;
+    padding-bottom: 1%;
+    margin-left: 5%;
+
+}
+
+.rowStyle {
+    border-top: 2px;
+    border-top-style: solid;
+    border-color: #cccccc;
+    
+    
+    
+}
+
+.footerStyle {
+    background-color: #666666;
+    color: white;
+}
+
+
+
+/* sizes portfolio images*/
+.portImg {
+    height: 175px;
+    width: 230px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    
+}
+
+/* colors text and background for portfolio images*/
+.portHeader {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-size: 20px;
+    margin-bottom: 0;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 2px;
+
+    
+}
+/* sets image position relative*/
+.thumbnail {
+    position: relative;
+}
+
+
+/* positions caption or portfolio headers to bottom center of image*/
+.caption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    
+    
+}
+
+
+textarea {
+    resize: none;
+    
+}
